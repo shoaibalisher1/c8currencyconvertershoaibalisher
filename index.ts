@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer"
 import ListPrompt from "inquirer/lib/prompts/list.js";
 let loop = (true)
